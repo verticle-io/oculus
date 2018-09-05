@@ -3,7 +3,7 @@
 oculus
 ======
 
-**Kubernetes event monitoring for [Fireboard](https:/fireboard.verticle.io)**
+**Kubernetes event monitoring for [Fireboard](https://fireboard.verticle.io)**
 
 Oculus is a small Spring Boot application that connects to the k8s api service and forwards the events in all namespaces to the Fireboard API.
 
@@ -37,7 +37,7 @@ $ kubectl apply -f serviceaccount-rbac.yaml
 
 ### Configure & Deploy
 
-Open a free Fireboard beta account at [fireboard.verticle.io](https:/fireboard.verticle.io) . You can use your github account to sign in.
+Open a free Fireboard beta account at [fireboard.verticle.io](https://fireboard.verticle.io) . You can use your github account to sign in.
 
 When done, access Fireboard, head to "set" in the nav bar and retrieve
 
