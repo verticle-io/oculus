@@ -1,4 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/verticle-io/apex)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/verticle-io/fireboard)
 
 oculus
 ======
@@ -37,7 +37,7 @@ $ kubectl apply -f serviceaccount-rbac.yaml
 
 ### Configure & Deploy
 
-Open a free Fireboard beta account. You can use your github account to log in.
+Open a free Fireboard beta account at https:/fireboard.verticle.io . You can use your github account to sign in.
 
 When done, access Fireboard, head to "set" in the nav bar and retrieve
 
@@ -78,4 +78,4 @@ Finally deploy the oculus service:
 $ kubectl apply -f oculus-deployment.yaml
 ```
 
-Now head to https://fireboard.verticle.io and open the Fireboard web application.
+Now head to https://fireboard.verticle.io and open the Fireboard web application and trigger some events on your cluster.
