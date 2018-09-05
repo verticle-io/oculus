@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: oculus
+  cloud:
+    kubernetes:
+      config:
+        sources:
+          - name: ${spring.application.name}
+          - namespace: default
