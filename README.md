@@ -28,7 +28,7 @@ Clone this repository.
 
 ### Prerequisites
 
-Create a ServiceAccount if needed:
+Create a ServiceAccount to allow oculus to access the k8s api server:
 
 ```
 $ kubectl apply -f serviceaccount-rbac.yaml
