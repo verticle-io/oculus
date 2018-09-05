@@ -3,7 +3,9 @@
 oculus
 ======
 
-Kubernetes event monitoring for [Fireboard](https:/fireboard.verticle.io)
+**Kubernetes event monitoring for [Fireboard](https:/fireboard.verticle.io)**
+
+Oculus is a small Spring Boot application that connects to the k8s api service and forwards the events in all namespaces to the Fireboard API.
 
 <img src="https://raw.githubusercontent.com/verticle-io/oculus/master/images/fireboard-oculus-5.png" alt="Screenshot" style="max-width:100%;">
 
@@ -16,7 +18,7 @@ Kubernetes event monitoring for [Fireboard](https:/fireboard.verticle.io)
 <img src="https://raw.githubusercontent.com/verticle-io/oculus/master/images/fireboard-oculus-9.png" alt="Screenshot" style="max-width:100%;">
 
 
-Oculus is a small Spring Boot application that connects to the k8s api service and forwards the events in all namespaces to the Fireboard API.
+
 
 
 Installation
