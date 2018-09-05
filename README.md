@@ -37,7 +37,7 @@ $ kubectl apply -f serviceaccount-rbac.yaml
 
 ### Configure & Deploy
 
-Open a free Fireboard beta account at https:/fireboard.verticle.io . You can use your github account to sign in.
+Open a free Fireboard beta account at [fireboard.verticle.io](https:/fireboard.verticle.io) . You can use your github account to sign in.
 
 When done, access Fireboard, head to "set" in the nav bar and retrieve
 
