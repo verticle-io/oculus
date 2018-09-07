@@ -6,6 +6,6 @@ metadata:
 
 data:
   application.properties: |-
-    tenantId=1
-    bucketId=59bab939749c252e09f3880c
-    authToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJnaXRodWI6Mzg0MDU2OmplbnNzYWFkZSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI5M2IxOTIyOC1jYTQxLTQwMGEtYjcwNi03YTYzNTU2ODQ1MDEiLCJjbGllbnRfaWQiOiJhY21lIiwic2NvcGUiOlsic2NvcGUiXX0.Ep5vjWL7qFKEmHOE2HaARnSxF0yGJNNkQ8A2H5piU2u-bIAiN2p6k8Iqo-GNjXf1y3DAYIaRzYQWX11r50Qim9bbyRMrYK8-DUm-tfZKoACt41Fr1bnBFdRXBeNVFOyZ0vvZA1O0c0Bxkt2ycHctbzmsfdCwMFMyINX0DuJQA-qOOt4etLCVdG_t26dSWTSwoArCcLsRulvOBRBFrTDYTSNCgrxcB_t7IHBbLRYNmQBXIIE9gpj_zptB3PZIO1ASH4FCJp_2f4K5nMEkCS3Hh111xWcROE3A_TrK7WthpPHH4astzzK0dfCkXb8B5Ub2v-xP84GRRw5ywIdpxh-5NA
+    tenantId=1001
+    bucketId=59bab...
+    authToken=eyJhb...
